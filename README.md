@@ -24,10 +24,10 @@ On the side I am learning the Rust programming language following the offical do
 
 ### I love using
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,svelte,docker,tailwind,next,figma,postgres">
+![Skill Icons](https://skills.syvixor.com/api/icons?i=typescript,svelte,docker,figma,postgresql,ansible,python&perline=15&radius=36)
 
 ### I am learning
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,arch,neovim,proxmox">
+![Skill Icons](https://skills.syvixor.com/api/icons?i=rust,bevy,archlinux,neovim&perline=12&radius=35)
 
 <br>
